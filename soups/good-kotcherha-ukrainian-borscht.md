@@ -44,19 +44,19 @@ This is a big recipe, requires a bit pot, and easily makes 10+ bowls as written.
 
 # Options:
 - Vegetarian? 
- - Substitute vegetable broth for the chicken broth
- - Replace the pork with a pork alternative, and don't add until at least step 7
- - Replace Better Than Bouillon Chicken Base with Vegetarian No Chicken Base
+* Substitute vegetable broth for the chicken broth
+* Replace the pork with a pork alternative, and don't add until at least step 7
+* Replace Better Than Bouillon Chicken Base with Vegetarian No Chicken Base
 - Better Than Bouillon can be replaced with 5 cubes chicken bouillon
 - Don't like spicy food?
- - Use less or remove cayenne and chili powder
+* Use less or remove cayenne and chili powder
 - Sensitive to salt?
- - Use 0.5 tsp of salt and 3 tsp of Bouillon
+* Use 0.5 tsp of salt and 3 tsp of Bouillon
 - Don't like the fatty bits floating in the broth after step 3?
- - Remove it with a strainer ladle
+* Remove it with a strainer ladle
 - Don't like sour cream?
- - You should try it with it first before excluding it
+* You should try it with it first before excluding it
 - Allergic to an ingredient?
- - Remove and replace if possible with whatever you usually replace it with
+* Remove and replace if possible with whatever you usually replace it with
 - Want an extra boom of flavor?
- - Add ~3 tsp of fresh dill along with the cabbage at step 12
+* Add ~3 tsp of fresh dill along with the cabbage at step 12
