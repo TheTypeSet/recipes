@@ -58,3 +58,5 @@ This is a big recipe, requires a bit pot, and easily makes 10+ bowls as written.
 -- You should try it with it first before excluding it
 - Allergic to an ingredient?
 -- Remove and replace if possible with whatever you usually replace it with
+- Want an extra boom of flavor?
+-- Add ~3 tsp of fresh dill along with the cabbage at step 12
