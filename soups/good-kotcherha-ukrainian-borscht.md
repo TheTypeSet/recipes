@@ -1,5 +1,8 @@
 # Notes: 
-This is a big recipe, requires a bit pot, and easily makes 10+ bowls as written.
+- This is a big recipe, requires a bit pot, and easily makes 10+ bowls as written.
+- Prep time will depend on how long it takes you to prep the veggies, but I try to budget at least 30 minutes
+- Cook time will somewhat depend on your stove, altitude, etc., but I normally budget about 90 minutes
+  * The first 30 minutes or so can overlap with your prep as you cook the pork
 
 # Ingredients:
 - 16 cups (128 oz.) chicken stock
