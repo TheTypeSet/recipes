@@ -1,6 +1,7 @@
 # Notes: 
 - Initial commit from memory; will build and test in the near future and update with bugfixes
 - I suspect this also needs basil; will find out in testing
+- This recipe is a Work In Progress
 
 # Ingredients:
 - 2 lbs. ground beef
@@ -20,14 +21,14 @@
 
 # Instructions:
 1. Add tomato sauce, Frank's RedHot, and all seasonings (sugar, cinnamon, cayenne, chili powder, black pepper, garlic powder, salt) to large pot
-2. Bring to a simmer, cooking uncovered at low-medium heat for 10 minutes 
-3. Cook sausages, cut into 1" chunks, and add to pot
+2. Bring to a simmer, cooking uncovered at low-medium heat for at least 10 minutes
+3. Cook sausages, cut into small chunks, and add to pot
 4. Brown beef, add to pot
 5. Add peppers, garlic, and onions to pot
 6. Raise heat to medium-high
 7. Simmer covered for 15 minutes
-8. Serve over fresh cooked pasta
+8. Serve over fresh cooked pasta or rice
 
 # Options:
 - Add additional Frank's and sugar when cooking the sausage
-- Add additional Frank's, sugar, and cinnamon when cooking the sausage
+- Add additional Frank's, sugar, and cinnamon when browning the beef
