@@ -1,34 +1,36 @@
 # Notes: 
-- Initial commit from memory; will build and test in the near future and update with bugfixes
-- I suspect this also needs basil; will find out in testing
-- This recipe is a Work In Progress
+- Makes 12+ servings
+- Veggie Prep Time: 15 minutes
+- Meat Prep Time: 30 minutes (less if you are able to cook the beef and the sausage at the same time)
+- Cooking Time: 30 minutes
+- Recipe is garlic-heavy, cut in half if not a fan of lots of garlic
+- Recipe does not include pasta guidance; usually serve with spaghetti
 
 # Ingredients:
-- 2 lbs. ground beef
-- 1 lb. italian sausage (sweet or spicy) 
-- 60 oz. tomato sauce
-- 1 cup Frank's RedHot
+- 2 lbs. ground beef, browned and partially drained
+- 1 lb. italian sausage (sweet or spicy), cooked and sliced into 1/2" chunks
+- 80 oz. tomato sauce
+- 1/2 cup Frank's RedHot
 - 1 cup chopped peppers
 - 1 cup diced onion
 - 1 ENTIRE bulb of garlic, minced
-- 0.25 cup sugar
-- 1 tsp cinnamon
-- 0.5 tsp cayenne red pepper
+- 1/2 cup sugar
+- 1 1/2 tsp cinnamon
 - 1 tsp chili powder
-- 0.5 tsp black pepper
+- 1/2 tsp black pepper
 - 1 tsp garlic powder
-- 0.5 tsp salt
+- 1/2 tsp basil
+- 1/2 tsp dill
+- 1/2 tsp salt
 
 # Instructions:
-1. Add tomato sauce, Frank's RedHot, and all seasonings (sugar, cinnamon, cayenne, chili powder, black pepper, garlic powder, salt) to large pot
-2. Bring to a simmer, cooking uncovered at low-medium heat for at least 10 minutes
-3. Cook sausages, cut into small chunks, and add to pot
-4. Brown beef, add to pot
-5. Add peppers, garlic, and onions to pot
-6. Raise heat to medium-high
-7. Simmer covered for 15 minutes
-8. Serve over fresh cooked pasta or rice
+1. Add tomato sauce, minced garlic, onions, Frank's RedHot, and all seasonings (sugar, cinnamon, cayenne, chili powder, black pepper, garlic powder, salt) to large pot
+2. Bring to a simmer, and cook uncovered at medium heat for 10 minutes, stirring often
+3. Add sausages, beef, and peppers to pot
+4. Raise heat to medium-high
+5. Simmer uncovered for 10 minutes, stirring often
+6. Serve over fresh cooked pasta or rice
 
 # Options:
-- Add additional Frank's and sugar when cooking the sausage
-- Add additional Frank's, sugar, and cinnamon when browning the beef
+- When browning the beef, add an additional 1/8 cup of Frank's, 1 tbsp sugar, 1 tsp cinnamon, 1/2 tsp salt, and 1/2 tsp chili powder
+- Replace Tomato Sauce with Ragu or similar pasta sauce for less tang + more flavor
