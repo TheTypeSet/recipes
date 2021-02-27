@@ -6,3 +6,6 @@ A recipe is the source code of a meal. This code, often combined with other code
 
 # requirements
 All meal source code within this project must be capable of running on a standard model homo sapien.
+
+# how to contribute
+Want to contribute? Open an Issue and request project access!
