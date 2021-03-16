@@ -1,5 +1,5 @@
 # Notes: 
-- Servings: 10+ bowls
+- Servings: 10+ bowls (about 7 quarts)
 - Prep time will depend on how long it takes you to prep the veggies, but I try to budget at least 30 minutes
 - Cook time will somewhat depend on your stove, altitude, etc., but I normally budget about 90 minutes
   * The first 30 minutes or so can overlap with your prep as you cook the pork
@@ -21,6 +21,7 @@
 - 1 tsp garlic powder
 - 0.75 tsp salt
 - 1 tsp dried dill
+- 4 tsp of fresh dill
 - 0.5 cups sour cream (and more to taste when served)
 - Rye bread to dip in the soup
 - Butter spread to put on the rye bread
@@ -33,11 +34,11 @@
 5. Cover again and return to a simmer
 6. Attend the pork: remove any chunks of fat, shred, and add to pot (this can be done at any time between now and step 11)
 7. Simmer for 10 minutes
-8. Stir in seasoning (salt + pepper + cayenne + chili powder + garlic powder + dill) and bouillion
+8. Stir in dry seasoning (salt + pepper + cayenne + chili powder + garlic powder + dried dill) and Better Than Bouillion
 9. Stir in beets and potatoes (add juice from can to the pot as well)
 10. Cover again and return to a simmer
 11. Simmer for 15 minutes
-12. Stir in cabbage
+12. Stir in cabbage and fresh dill
 13. Cover again and return to a simmer
 14. Simmer for 5 minutes
 15. Remove from heat
@@ -61,5 +62,3 @@
   * You should try it with it first before excluding it
 - Allergic to an ingredient?
   * Remove and replace if possible with whatever you usually replace it with
-- Want an extra boom of flavor?
-  * Add ~3 tsp of fresh dill along with the cabbage at step 12
