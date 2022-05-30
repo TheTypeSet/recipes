@@ -6,21 +6,22 @@
 
 # Ingredients:
 - 16 cups (128 oz.) chicken stock
-- 2 lb pork country ribs (or similar)
+- 2 lb pork country ribs, bone-in (or similar)
 - 1/2 cup diced carrots
-- 1/2 cup diced celery
+- 1 cup diced celery
 - 1 cup diced onion
-- 1 ENTIRE bulb of garlic, minced 
+- 1 whole bulb garlic, minced 
 - 1.5 cups small chunked potatoes
-- 1.5 cups diced beets (canned)
-- 1.5 cups thin-chopped cabbage
+- 2 cans diced beets
+- 14.5oz can petite diced tomatoes
+- 1.5 cups thin-chopped green cabbage
 - 4 tsp Better Than Bouillion - Chicken
-- 0.5 tsp cayenne red pepper
-- 0.5 tsp chili powder
+- 0.75 tsp cayenne red pepper
+- 0.75 tsp chili powder
 - 0.5 tsp black pepper
-- 1 tsp garlic powder
+- 2 tsp garlic powder
 - 0.75 tsp salt
-- 1 tsp dried dill
+- 2 tsp dried dill
 - 4 tsp of fresh dill
 - 0.5 cups sour cream (and more to taste when served)
 - Rye bread to dip in the soup
@@ -30,7 +31,7 @@
 1. Heat chicken stock and pork at medium-high heat until the pot starts boiling
 2. Reduce heat to medium, cover, and let simmer for 20 minutes
 3. Remove pork, set aside to cool
-4. Stir in carrots + celery + onion + garlic
+4. Stir in petite diced tomatoes, carrots, celery, onion, and minced garlic
 5. Cover again and return to a simmer
 6. Attend the pork: remove any chunks of fat, shred, and add to pot (this can be done at any time between now and step 11)
 7. Simmer for 10 minutes
@@ -52,12 +53,6 @@
   * Replace the pork with a pork alternative, and don't add until at least step 7
   * Replace Better Than Bouillon Chicken Base with Vegetarian No Chicken Base
 - Better Than Bouillon can be replaced with 5 cubes chicken bouillon
-- Don't like spicy food?
-  * Use less or remove cayenne and chili powder
-- Sensitive to salt?
-  * Use 0.5 tsp of salt and 3 tsp of Bouillon
-- Don't like the fatty bits floating in the broth after step 3?
-  * Remove it with a strainer ladle
 - Don't like sour cream?
   * You should try it with it first before excluding it
 - Allergic to an ingredient?
