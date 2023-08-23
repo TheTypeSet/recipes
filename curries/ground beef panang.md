@@ -1,5 +1,6 @@
 # Notes: 
 - Heat, salt, and sweetness preferences vary; adjust sugar and salt, and/or add ground cayenne as preferred
+- You should really, really buy your curry paste at an asian food market or similar; the cost per oz can be insane at regular grocery stores
 
 # Ingredients:
 - 3 tbsp cooking oil
