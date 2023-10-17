@@ -30,7 +30,7 @@
 7. Saute for 3-4 minutes until onions soften; careful to not burn
 8. Add 2 13.5 oz cans of coconut milk
 9. Bring to a simmer (don't roil boil)
-10. Add dry seasonings (1 tsp salt, 1/4 tsp black pepper, 1 tsp paprika, 2 tsp garlic powder, 3 tbsp sugar)
+10. Add dry seasonings (1/2 tsp salt, 1/4 tsp black pepper, 1 tsp paprika, 2 tsp garlic powder, 3 tbsp sugar)
 11. Add uncooked protein
 12. Simmer for 9-12 minutes (4-5 minutes if protein is already cooked)
 13. In a separate pot, cook lo mein per package instructions (do not drain)
