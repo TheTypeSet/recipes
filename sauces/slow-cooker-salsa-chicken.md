@@ -6,7 +6,7 @@
 - Usually serve on top of brown rice
 
 # Ingredients:
-- 1 lb boneless skinless chicken breasts
+- 1.5 lb boneless skinless chicken thighs (thawed if from frozen)
 - 24 oz jar of salsa
 - 22.6 oz can cream of chicken soup
 - brown rice
@@ -16,11 +16,11 @@
 - cholula hot sauce (or similar)
 
 # Instructions:
-1. Pat dry chicken breasts
+1. Pat dry chicken thighs
 2. Add chicken breasts, salsa, and cream of chicken soup to slow cooker
 3. Cook following the temps/times shown in the Notes section
 4. Starting halfway through the cook time, start stirring occasionally
-5. When there are about 2 hours remaining, use a wooden spoon (or similar) to shred the chicken in the slow cooker
+5. When there are about 2 hours remaining, use a potato masher (or similar) to shred the chicken in the slow cooker
 6. Serve over fresh cooked brown rice
 7. Top with shredded colby jack, sour cream, sliced jalapenos, and cholula to taste
 
