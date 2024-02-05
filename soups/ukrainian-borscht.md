@@ -48,7 +48,8 @@
 19. Remove from heat
 20. In a separate bowl, whisk 0.5 cup of sour cream with 2 cups liquid from the soup
 21. Stir soup-cream mixture back into the pot
-22. Serve with buttered rye bread; add extra sour cream to taste
+22. Add sour cream to taste
+23. Serve with buttered rye bread for dipping
 
 # Options:
 - When inherited, recipe called for bone-in pork country ribs; using these doesn't change a whole lot in the taste, but can be cheaper than the chicken
