@@ -14,7 +14,7 @@
 - 2 cans diced beets (including the liquid)
 - 14.5oz can petite diced tomatoes
 - 2 cups thin-chopped green cabbage
-- 4 tbsp Better Than Bouillion - Chicken
+- 4 tbsp Better Than Bouillon - Chicken
 - 1 tsp cayenne red pepper
 - 1 tsp chili powder
 - 0.5 tsp black pepper
@@ -32,7 +32,7 @@
 4. Reduce heat to medium, cover, and let simmer for 20 minutes
 5. Remove meat, set aside to cool
 6. Add dry seasoning (salt + pepper + cayenne + chili powder + garlic powder + dried dill)
-7. Add Better Than Bouillion
+7. Add Better Than Bouillon
 8. Cover again and return to a simmer
 9. Attend the meat: remove any unwanted chunks of fat, shred, and add to pot (this can be done at any time between now and step 13)
 10. Simmer for 10 minutes
