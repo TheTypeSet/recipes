@@ -19,7 +19,7 @@
 - 1 tsp basil
 - 1 tsp parsley
 - 1 bay leaf
-- 1 tsp Better Than Bouillion - Beef
+- 1 tsp Better Than Bouillon - Beef
 - hoagie rolls (or similar)
 - sliced provologne cheese
 - pepperoncini peppers
