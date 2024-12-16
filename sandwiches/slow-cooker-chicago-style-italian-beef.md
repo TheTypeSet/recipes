@@ -32,11 +32,11 @@
 
 # Instructions for italian beef:
 1. (Optional) Sear the roast:
-1a. Remove the roast from packaging, pat dry, rub with a light dusting of salt, and let sit at room temperature for 15-30 minutes
-1b. Pre-heat pan on medium-high heat, add 1 tbsp oil
-1c. Sear roast in pan, browning all sides, should take 1-2 minutes per side
+* 1a. Remove the roast from packaging, pat dry, rub with a light dusting of salt, and let sit at room temperature for 15-30 minutes
+* 1b. Pre-heat pan on medium-high heat, add 1 tbsp oil
+* 1c. Sear roast in pan, browning all sides, should take 1-2 minutes per side
 2. Place roast in slow cooker
-2a. (extra optional if roast was seared) Use 0.5 cups of the beef stock mix to deglaze the pan, pouring over the roast
+* 2a. (extra optional if roast was seared) Use 0.5 cups of the beef stock mix to deglaze the pan, pouring over the roast
 3. Add beef stock to sauce pan
 4. Add dried seasonings (italian mix, garlic powder, cayenne, black pepper, salt, dill, oregano, basil, parsley, bay leaf), mixing well
 5. Turn on heat, bring mixture to a boil, then immediately remove from heat
