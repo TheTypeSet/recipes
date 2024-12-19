@@ -4,33 +4,39 @@
 - Meat Prep Time: 30 minutes (less if you are able to cook the beef and the sausage at the same time)
 - Cooking Time: 30 minutes
 - Recipe is garlic-heavy, cut in half if not a fan of lots of garlic
-- Recipe does not include pasta guidance; usually serve with spaghetti
+- Recipe is great mixed with (or served over) most pastas; make sure to add a splash or two of the pasta water to the mix
 
 # Ingredients:
-- 2 lbs. ground beef, browned and partially drained
-- 1 lb. italian sausage (sweet or spicy), cooked and sliced into 1/2" chunks
-- 80 oz. tomato sauce
-- 1/2 cup Frank's RedHot
-- 1 cup chopped peppers
-- 1 cup diced onion
-- 1 ENTIRE bulb of garlic, minced
-- 1/2 cup sugar
-- 1 1/2 tsp cinnamon
-- 1 tsp chili powder
-- 1/2 tsp black pepper
-- 1 tsp garlic powder
-- 1/2 tsp basil
-- 1/2 tsp dill
-- 1/2 tsp salt
+- 2 tbsp olive oil
+- 2 lbs ground beef
+- 19 oz package italian sausages
+- 67 oz Prego Traditional pasta sauce
+- 5 tbsp Frank's RedHot (or similar)
+- 1 whole onion, chopped
+- 8 cloves garlic, minced
+- 3 tbsp sugar
+- 0.5 tsp black pepper
+- 0.5 tsp salt
+- 0.5 tbsp chili powder
+- 0.5 tbsp garlic powder
+- 0.5 tbsp fresh basil, chopped
+- 0.25 tbsp cinnamon
 
 # Instructions:
-1. Add tomato sauce, minced garlic, onions, Frank's RedHot, and all seasonings (sugar, cinnamon, cayenne, chili powder, black pepper, garlic powder, salt) to large pot
-2. Bring to a simmer, and cook uncovered at medium heat for 10 minutes, stirring often
-3. Add sausages, beef, and peppers to pot
-4. Raise heat to medium-high
-5. Simmer uncovered for 10 minutes, stirring often
-6. Serve over fresh cooked pasta or rice
+1. Add pasta sauce to pot over low heat
+2. Cook sausages per package instructions; set aside to cool
+3. At any time between now and step 7, cut up the sausage and mix into the pasta sauce
+4. Preheat pan with 1 tbsp olive oil over medium-high heat
+5. Brown beef in pan, then remove from heat
+6. Stir into beef the salt, pepper, 1 tbsp sugar, and 2 tbsp of hot sauce
+7. Mix beef into the pasta sauce
+8. In the pan used for the beef, add 1 tbsp olive oil and return to medium heat
+9. Add chopped onions to pan, saute for 6 minutes
+10. Add diced garlic to pan with onions, saute for 1 more minute, remove pan from heat
+11. Add onions and garlic to pasta sauce
+12. Stir in 2 tbsp sugar, 3 tbsp hot sauce, chili powder, garlic powder, fresh basil, and cinnamon
+13. Simmer sauce for 10 minutes
+14. Remove from heat and serve
 
 # Options:
-- When browning the beef, add an additional 1/8 cup of Frank's, 1 tbsp sugar, 1 tsp cinnamon, 1/2 tsp salt, and 1/2 tsp chili powder
-- Replace Tomato Sauce with Ragu or similar pasta sauce for less tang + more flavor
+- After step 14, stir in 1 lb cooked pasta along with 3 tbsp of pasta water
