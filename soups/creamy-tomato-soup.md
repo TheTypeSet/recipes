@@ -9,7 +9,7 @@
 
 # Ingredients:
 - 4 tbsp butter
-- 2 vidalia onions (3 cups), diced 
+- 2 onions (3 cups), diced 
 - 6 cloves garlic (3 tbsp), minced
 - 56 oz San Marzano tomatoes, crushed or similar 
 - 1 qt (32 oz.) chicken stock
@@ -21,20 +21,20 @@
 - 1 cup (8 oz) parmesan, grated
 
 # Instructions:
-1. Preheat large (nonreactive) pot over medium-high heat
+1. Preheat large (nonreactive) pot over medium heat
 2. Add butter and onions
-3. Saute for 12 minutes, stirring often
+3. Saute for 6 minutes, stirring often (onions should be softened and getting golden)
 4. Add minced garlic
 5. Continue to saute for 2 minutes, stirring
 6. Stir in tomatoes (include the juice in the can), chicken stock, Better than Bouillon, half (0.5 cup) of the chopped basil, sugar, and pepper
-7. Mix well, return to a boil
-8. Partially cover, reduce heat to medium-low, and let simmer for 10 minutes
-9. Blend soup; this is best done with an immersion blender, but can also be done by scooping batch at a time into a regular blender
-10. Once all soup is blended, increase heat to medium
-11. Stir in heavy cream and half (0.5 cup) of the grated parmesan
+7. Mix well, return to a simmer
+8. Partially cover, reduce heat to low, and let simmer for 10 minutes, stirring occasionally
+9. Remove from heat and blend soup; this is best done with an immersion blender, but can also be done by scooping batch at a time into a regular blender
+10. Once all soup is blended, return to low heat
+11. Stir in half (0.5 cup) of the grated parmesan and then the heavy cream
 12. Return to a simmer
 13. Taste the soup, and add salt/pepper/sugar as necessary
 14. Remove from heat and serve topped with reserved parmesan and/or chopped basil
 
 # Options:
-- Can use sweet or yellow onions instead of vidalia
+- Sweet, vidalia, and/or yellow onions all work; white onions will give the soup a more oniony flavour
