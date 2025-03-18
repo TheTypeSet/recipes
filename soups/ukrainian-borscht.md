@@ -5,7 +5,7 @@
 
 # Ingredients:
 - 16 cups (128 oz.) chicken stock
-- 2 lb chicken thighs
+- 1 lb chicken thighs
 - 1 cup diced carrots
 - 1 cup diced celery
 - 1 whole diced onion
@@ -15,7 +15,7 @@
 - 14.5oz can petite diced tomatoes
 - 2 cups thin-chopped green cabbage
 - 4 tbsp Better Than Bouillon - Chicken
-- 1 tsp cayenne red pepper
+- 0.5 tsp cayenne red pepper
 - 1 tsp chili powder
 - 0.5 tsp black pepper
 - 3 tsp garlic powder
@@ -45,7 +45,7 @@
 17. Remove from heat
 18. In a separate bowl, whisk 0.5 cup of sour cream with 2 cups liquid from the soup
 19. Stir soup-cream mixture back into the pot
-20. Add sour cream to taste
+20. Add sour cream to taste when serving
 21. Serve with buttered rye bread for dipping
 
 # Options:
