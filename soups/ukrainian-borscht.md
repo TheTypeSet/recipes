@@ -8,12 +8,12 @@
 - 1 lb chicken thighs
 - 1 cup diced carrots
 - 1 cup diced celery
-- 1 whole diced onion
+- 1 whole onion, diced
 - 5 cloves garlic, minced
 - 1.5 cups peeled and chunked potatoes
 - 2 cans diced beets (including the liquid)
 - 14.5oz can petite diced tomatoes
-- 2 cups thin-chopped green cabbage
+- 1 small green cabbage, chopped 
 - 4 tbsp Better Than Bouillon - Chicken
 - 0.5 tsp cayenne red pepper
 - 1 tsp chili powder
@@ -51,3 +51,4 @@
 # Options:
 - When inherited, recipe called for bone-in pork country ribs; using these doesn't change a whole lot in the taste, but can be cheaper than the chicken
 - If you don't have any fresh dill, just add 2 more tsp of dried dill as part of step 6
+- For the carrot/celery/potatoes, you can also just chop a few of each instead of measuring
